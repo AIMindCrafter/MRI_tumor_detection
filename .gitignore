@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+venv/
+
+# NOTE: EfficientNetB2_brain_tumor_model.keras is intentionally NOT ignored
+# (pre-trained model included in the repo for immediate use)
+# If model is too large for GitHub (>100MB), use Git LFS:
+#   git lfs track "*.keras"
+
+# Data
+data/raw/
+data/processed/
+*.zip
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# MLflow runs
+mlruns/
