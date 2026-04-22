@@ -2,7 +2,14 @@
 
 <img width="1536" height="849" alt="Meningioma" src="https://github.com/user-attachments/assets/5e583deb-84f3-4e99-8b75-1e20a34954eb" />
 
+
+
+
 <img width="1536" height="856" alt="Pituitary" src="https://github.com/user-attachments/assets/3eac262e-ebdb-44a5-b254-137941404e29" />
+
+
+
+
 
 <img width="1536" height="837" alt="Glioma " src="https://github.com/user-attachments/assets/e8d95f08-2ddf-49e6-9f2e-34abc78c4db4" />
 
